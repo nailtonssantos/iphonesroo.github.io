@@ -38,6 +38,11 @@ body{
     /* display:flex - Essa propriedade faz com que todas as tags filhas recebam o Flex Box, ou sexa ficam uma ao lado da outra*/
 }
 
+.social .localizacao{
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
 .social img{
     width: 33px;
 }
